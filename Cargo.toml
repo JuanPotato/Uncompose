@@ -1,10 +1,9 @@
 [package]
 name = "uncompose"
-version = "0.1.0"
+version = "0.1.1"
 authors = ["Hasan Ibraheem <hasantiny@gmail.com>"]
 license = "MPL-2.0"
 
 [dependencies]
+charname = "0.1"
 gtk = "0.3.0"
-phf = "0.7.21"
-phf_macros = "0.7.21"
